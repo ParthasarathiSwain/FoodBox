@@ -16,8 +16,6 @@
     - [Steps to Set Up the Project](#steps-to-set-up-the-project)
   - [Screenshots](#screenshots)
   - [Project Structure](#project-structure)
-  - [Contribution](#contribution)
-  - [License](#license)
   - [Contact](#contact)
 
 ---
@@ -108,4 +106,5 @@ FoodBox/
 ├── database.sql                    # Database schema and initial data
 └── README.md                       # Project documentation
 ```
-  
+### Contact
+- **Email** : rajaswain6969@gmail.com
