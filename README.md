@@ -65,7 +65,7 @@
 3. **MySQL**: Version 8.0 or later
 4. **Eclipse IDE**: Latest version with Maven support
 5. **Maven**: Integrated into Eclipse or standalone
-
+---
 ### Screenshots
 ![img-1](https://github.com/ParthasarathiSwain/FoodBox/blob/main/src/main/webapp/screenshots/1.PNG)
 ![img-2](https://github.com/ParthasarathiSwain/FoodBox/blob/main/src/main/webapp/screenshots/2.PNG)
@@ -79,7 +79,7 @@
 ![img-10](https://github.com/ParthasarathiSwain/FoodBox/blob/main/src/main/webapp/screenshots/10.PNG)
 ![img-11](https://github.com/ParthasarathiSwain/FoodBox/blob/main/src/main/webapp/screenshots/11.PNG)
 ![img-12](https://github.com/ParthasarathiSwain/FoodBox/blob/main/src/main/webapp/screenshots/12.PNG)
-
+---
 ### Project Structure
 ```base
 FoodBox/
@@ -106,5 +106,6 @@ FoodBox/
 ├── database.sql                    # Database schema and initial data
 └── README.md                       # Project documentation
 ```
+---
 ### Contact
 - **Email** : rajaswain6969@gmail.com
